@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title       : Consciense Docs
+description : Consciense Docs website!
 
-url: https://just-the-docs.github.io
+logo        : "/assets/images/logo-full-sm.png"
+favicon_ico : "/assets/images/favicon.ico"
 
+color_scheme: dark # dark or light
+
+theme       : just-the-docs # do not change
+url         : https://just-the-docs.github.io
+
+aux_links_new_tab: true
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Sciense.org: https://sciense.org
